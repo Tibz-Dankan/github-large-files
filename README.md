@@ -20,6 +20,12 @@ git lfs track ".file-extention-name"
 
 ```
 
+## Now make sure .gitattributes is tracked:
+
+```.sh
+git add .gitattributes
+```
+
 ### Example
 
 ```.bs

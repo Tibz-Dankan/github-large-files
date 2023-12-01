@@ -4,7 +4,9 @@ Send large files to github
 
 ## Get started
 
-## Install `lfs` tool using command below
+## Install `lfs` tool visiting the site `https://git-lfs.com`
+
+## verify install of `lfs`
 
 ```.bs
 git lfs install
